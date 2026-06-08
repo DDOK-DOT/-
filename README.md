@@ -1,4 +1,4 @@
-# -$token = "YOUR_GITHUB_TOKEN"
+$token = "YOUR_GITHUB_TOKEN"
 $body = @{
     name = "虾塘"
     description = ""
